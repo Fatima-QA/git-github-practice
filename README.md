@@ -17,7 +17,7 @@ This repository was created for Git/GitHub coursework practice. It is part of my
 
 ## Evidence and current limitations
 
-The reviewed default-branch history contains one commit, titled `Video sureti`. The repository currently does not demonstrate a documented branch, pull request, code review, or merge-conflict workflow.
+The repository currently does not demonstrate a documented branch, pull request, code review, or merge-conflict workflow.
 
 ## Planned improvement
 
